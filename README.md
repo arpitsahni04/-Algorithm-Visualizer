@@ -1,4 +1,4 @@
-##A Visualizer for Astar Algorithm.
+# A Visualizer for Astar Algorithm. #
 Green Blocks: Open set: yet to be visited.
 
 Red Blocks: Closed set: visited blocks.
