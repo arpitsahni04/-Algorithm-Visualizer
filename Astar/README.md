@@ -7,4 +7,4 @@ Purple Blocks: FInal Backtracked Path.
 
 Orange, Cyan Blocks: Start and End Points Respectively
 
-![visual.gif](https://github.com/arpitsahni04/-Algorithm-Visualizer/blob/43a92c078389b6f6e3a72b9575ab01a5ab69080d/Assests/visual.gif)
+![visual.gif](https://github.com/arpitsahni04/-Algorithm-Visualizer/blob/71457679fb3dd2e801d62c8b48f6127a922fabd1/Assests/visual.gif)
